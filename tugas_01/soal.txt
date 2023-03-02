@@ -1,0 +1,5 @@
+ambil salah satu code (code-1 atau code-2) sebagai basis
+
+kemudian coba ubah jenisdata (1 = ganjil, 2 = genap), 
+ubah ke enum. 
+
