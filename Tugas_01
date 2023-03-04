@@ -1,6 +1,5 @@
 package tugas_01;
 
-
 import java.util.Random;
 
 enum Data {
